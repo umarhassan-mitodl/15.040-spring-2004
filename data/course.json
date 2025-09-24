@@ -1,0 +1,53 @@
+{
+  "term": "Spring",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Game Theory"
+    ],
+    [
+      "Business",
+      "Management"
+    ],
+    [
+      "Business",
+      "Organizational Behavior"
+    ]
+  ],
+  "legacy_uid": "7ecf203a-4917-5029-7118-367984d73c83",
+  "instructors": {
+    "content": [
+      "ea5bf134-2ede-a760-b78e-e4a9a33b4d0d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "db0ad91e-bb14-437a-91d5-cd78fa7d8d29",
+    "website": "15-040-game-theory-for-managers-spring-2004"
+  },
+  "course_title": "Game Theory for Managers",
+  "course_description": "This half-term course examines the choices that we make which affect others and the choices others make that affect us. Such situations are known as \"games\" and game-playing, while sounding whimsical, is serious business. Managers frequently play \"games\" both within the firm and outside it\u00a0\u2013 with competitors, customers, regulators, and even capital markets! The goal of this course is to enhance\u00a0a student's ability to think strategically in complex, interactive environments. Knowledge of game theory will give students an advantage in such strategic settings. The course is structured around three \"themes for acquiring advantage in games\": commitment / strategic moves, exploiting hidden information, and limited rationality.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.040",
+  "course_image_thumbnail": {
+    "content": "7f94e27c-95d4-02ac-265c-427c5f2dbaac",
+    "website": "15-040-game-theory-for-managers-spring-2004"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets",
+    "Written Assignments",
+    "Exams with Solutions"
+  ],
+  "site_uid": "922957a1-377c-415b-8837-5e6b081fb92e",
+  "site_short_id": "15.040-spring-2004",
+  "site_url_path": "courses/15-040-game-theory-for-managers-spring-2004",
+  "title": "Course Metadata"
+}
