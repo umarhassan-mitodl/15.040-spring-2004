@@ -20,7 +20,7 @@ Prior to about half of the lectures, students will play an online game. No prep
 
 ### Logistics of Online Games
 
-Information about how to access the online games will be provided in class. The online games were written by Assistant Professor Mike Shor of Vanderbilt University, and the summary descriptions available below are courtesy of him. More information is available at {{% resource_link "6da0d47c-2552-4b6f-a211-e2d124801de0" "GameTheory.net" %}}.
+Information about how to access the online games will be provided in class. The online games were written by Assistant Professor Mike Shor of Vanderbilt University, and the summary descriptions available below are courtesy of him. More information is available at [GameTheory.net](http://www.gametheory.net/).
 
 Games will become available by **5:00 PM** the day of the lecture in which they are announced and must be played by **midnight the day prior** to the next lecture. Results from the online games will be announced in lecture. (Note that the numbering of the games in the table below is not sequential; it corresponds to the game numbers on GameTheory.net.)
 
